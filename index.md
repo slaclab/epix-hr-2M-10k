@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ePix Hr 2M 10k Documentation
 
 You can use the [editor on GitHub](https://github.com/slaclab/epix-hr-2M-10k/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
